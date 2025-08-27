@@ -1,0 +1,75 @@
+# Documentation related changes
+documentation:
+  - '**/*.md'
+  - 'docs/**'
+  - 'README*'
+  - '*.rst'
+
+# Python code changes
+python:
+  - '**/*.py'
+  - 'python/**'
+  - 'examples/**/*.py'
+
+# C++ code changes  
+cpp:
+  - '**/*.cpp'
+  - '**/*.cc'
+  - '**/*.cxx'
+  - '**/*.c'
+
+# Header files
+headers:
+  - '**/*.h'
+  - '**/*.hpp'
+  - '**/*.hxx'
+
+# CUDA code
+cuda:
+  - '**/*.cu'
+  - '**/*.cuh'
+
+# Build system
+build:
+  - '**/CMakeLists.txt'
+  - '**/*.cmake'
+  - 'cmake/**'
+  - 'Makefile*'
+  - '**/*.mk'
+
+# Examples
+examples:
+  - 'examples/**'
+
+# Tests
+tests:
+  - 'test/**'
+  - '**/test_*'
+  - '**/*_test.*'
+
+# GitHub workflows and configs
+github:
+  - '.github/**'
+
+# Configuration files
+config:
+  - '**/*.yml'
+  - '**/*.yaml'
+  - '**/*.json'
+  - '**/*.toml'
+  - '**/*.cfg'
+  - '**/*.ini'
+
+# Tools and utilities
+tools:
+  - 'tools/**'
+  - 'bin/**'
+
+# Media and assets
+media:
+  - 'media/**'
+  - '**/*.png'
+  - '**/*.jpg'
+  - '**/*.jpeg'
+  - '**/*.gif'
+  - '**/*.svg'
