@@ -17,3 +17,11 @@ CuTe DSL
   Debugging with the DSL <cute_dsl_general/debugging.rst>
   Autotuning with the DSL <cute_dsl_general/autotuning_gemm.rst>
   Educational Notebooks <cute_dsl_general/notebooks.rst>
+  
+  Examples: Elementwise Addition <cute_dsl_general/example_elementwise_add.rst>
+  Examples: Elementwise Apply <cute_dsl_general/example_elementwise_apply.rst>
+  Examples: SIMT GEMM <cute_dsl_general/example_sgemm.rst>
+  Examples: Tensor Core GEMM <cute_dsl_general/example_tensorop_gemm.rst>
+  Examples: JIT Integration <cute_dsl_general/example_call_from_jit.rst>
+  Examples: Shared Memory Allocator <cute_dsl_general/example_smem_allocator.rst>
+  Examples: Flash Attention v2 <cute_dsl_general/example_flash_attention.rst>
